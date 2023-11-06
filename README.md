@@ -1,2 +1,4 @@
 # drawing-names
-The aim of this simple project is to help with generating the appropriate gifting pairs and notifying them of the results.
+Generate appropriate gifting pairs and notify them of the results via email.
+
+## Test markdown
